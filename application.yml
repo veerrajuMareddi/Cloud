@@ -1,3 +1,3 @@
 eureka:
   instance:
-    hostname: fromClodServer
+    hostname: fromCloudServer
